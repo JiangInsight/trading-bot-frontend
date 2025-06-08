@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paper Trading Bot
 
 这是一个基于Python的加密货币纸面交易机器人，使用Binance API获取实时市场数据，并使用OpenAI的GPT模型进行交易决策。
@@ -65,3 +66,6 @@ python app.py
 ## License
 
 MIT 
+=======
+# trading-bot-frontend
+>>>>>>> 7d7e3966600632a9869850c6ce4c89b9167fc96a
